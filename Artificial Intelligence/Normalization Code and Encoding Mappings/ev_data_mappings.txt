@@ -1,0 +1,1394 @@
+County mapping:
+  Ada: 0
+  Adams: 1
+  Alameda: 2
+  Albemarle: 3
+  Alexandria: 4
+  Allegheny: 5
+  Allen: 6
+  Anchorage: 7
+  Anne Arundel: 8
+  Arapahoe: 9
+  Arlington: 10
+  Asotin: 11
+  Atlantic: 12
+  Autauga: 13
+  Beaufort: 14
+  Bell: 15
+  Benton: 16
+  Berkeley: 17
+  Bexar: 18
+  Brevard: 19
+  Bristol: 20
+  Brown: 21
+  Burlington: 22
+  Calvert: 23
+  Carroll: 24
+  Charles: 25
+  Charleston: 26
+  Charlottesville: 27
+  Chatham: 28
+  Chelan: 29
+  Chesapeake: 30
+  Chesterfield: 31
+  Christian: 32
+  Churchill: 33
+  Clackamas: 34
+  Clallam: 35
+  Clark: 36
+  Collin: 37
+  Columbia: 38
+  Contra Costa: 39
+  Cook: 40
+  Cowlitz: 41
+  Cumberland: 42
+  Currituck: 43
+  Cuyahoga: 44
+  DeKalb: 45
+  Denton: 46
+  District of Columbia: 47
+  Douglas: 48
+  Doña Ana: 49
+  DuPage: 50
+  Duval: 51
+  El Paso: 52
+  Escambia: 53
+  Essex: 54
+  Fairfax: 55
+  Ferry: 56
+  Forsyth: 57
+  Franklin: 58
+  Frederick: 59
+  Fredericksburg: 60
+  Fresno: 61
+  Galveston: 62
+  Garfield: 63
+  Geary: 64
+  Grant: 65
+  Grays Harbor: 66
+  Gwinnett: 67
+  Hamilton: 68
+  Hardin: 69
+  Harford: 70
+  Harnett: 71
+  Harris: 72
+  Hennepin: 73
+  Hillsborough: 74
+  Hoke: 75
+  Honolulu: 76
+  Horry: 77
+  Houston: 78
+  Howard: 79
+  Hudson: 80
+  Island: 81
+  Isle of Wight: 82
+  Jackson: 83
+  James City: 84
+  Jefferson: 85
+  Kauai: 86
+  Kent: 87
+  Kern: 88
+  King: 89
+  Kings: 90
+  Kitsap: 91
+  Kittitas: 92
+  Klickitat: 93
+  Kootenai: 94
+  Lake: 95
+  Lane: 96
+  Laramie: 97
+  Larimer: 98
+  Leavenworth: 99
+  Lee: 100
+  Lewis: 101
+  Lincoln: 102
+  Los Angeles: 103
+  Loudoun: 104
+  Macomb: 105
+  Madison: 106
+  Maricopa: 107
+  Marin: 108
+  Marion: 109
+  Mason: 110
+  Maui: 111
+  Meade: 112
+  Mercer: 113
+  Miami-Dade: 114
+  Middlesex: 115
+  Monterey: 116
+  Montgomery: 117
+  Moore: 118
+  Multnomah: 119
+  Muscogee: 120
+  Nassau: 121
+  New Castle: 122
+  New Haven: 123
+  New London: 124
+  New York: 125
+  Newport: 126
+  Norfolk: 127
+  Northampton: 128
+  Nueces: 129
+  Okaloosa: 130
+  Okanogan: 131
+  Oldham: 132
+  Orange: 133
+  Otero: 134
+  Pacific: 135
+  Palm Beach: 136
+  Pend Oreille: 137
+  Penobscot: 138
+  Pettis: 139
+  Philadelphia: 140
+  Pierce: 141
+  Pima: 142
+  Pinal: 143
+  Placer: 144
+  Plaquemines: 145
+  Polk: 146
+  Portsmouth: 147
+  Prince George: 148
+  Prince George's: 149
+  Prince William: 150
+  Providence: 151
+  Pulaski: 152
+  Richland: 153
+  Richmond: 154
+  Riverside: 155
+  Rock Island: 156
+  Rockdale: 157
+  Rockingham: 158
+  Sacramento: 159
+  Salt Lake: 160
+  San Bernardino: 161
+  San Diego: 162
+  San Francisco: 163
+  San Juan: 164
+  San Luis Obispo: 165
+  San Mateo: 166
+  Santa Barbara: 167
+  Santa Clara: 168
+  Sarasota: 169
+  Saratoga: 170
+  Sedgwick: 171
+  Shelby: 172
+  Skagit: 173
+  Skamania: 174
+  Snohomish: 175
+  Solano: 176
+  Sonoma: 177
+  Spokane: 178
+  St. Charles: 179
+  St. Lawrence: 180
+  St. Louis: 181
+  St. Mary's: 182
+  Stafford: 183
+  Stevens: 184
+  Suffolk: 185
+  Sussex: 186
+  Tarrant: 187
+  Thurston: 188
+  Tom Green: 189
+  Tooele: 190
+  Travis: 191
+  Unknown: 192
+  Ventura: 193
+  Virginia Beach: 194
+  Volusia: 195
+  Wahkiakum: 196
+  Wake: 197
+  Walla Walla: 198
+  Wasco: 199
+  Washoe: 200
+  Washtenaw: 201
+  Whatcom: 202
+  Whitman: 203
+  Williamsburg: 204
+  Williamson: 205
+  Yakima: 206
+  Yolo: 207
+  Yuba: 208
+
+City mapping:
+  Aberdeen: 0
+  Aberdeen Proving Ground: 1
+  Acme: 2
+  Addy: 3
+  Airway Heights: 4
+  Alameda: 5
+  Albion: 6
+  Aldie: 7
+  Alexandria: 8
+  Algona: 9
+  Allyn: 10
+  Almira: 11
+  Amanda Park: 12
+  Amboy: 13
+  Anacortes: 14
+  Anderson Island: 15
+  Andrews Air Force Base: 16
+  Ann Arbor: 17
+  Annapolis: 18
+  Apache Junction: 19
+  Appleton: 20
+  Arcadia: 21
+  Ariel: 22
+  Arlington: 23
+  Arnold: 24
+  Artondale: 25
+  Ashburn: 26
+  Ashford: 27
+  Asotin: 28
+  Atherton: 29
+  Atlanta: 30
+  Auburn: 31
+  Augusta: 32
+  Aurora: 33
+  Austin: 34
+  Bainbridge Island: 35
+  Baring: 36
+  Battle Ground: 37
+  Bay Center: 38
+  Beale Afb: 39
+  Beaux Arts: 40
+  Beaver: 41
+  Bedford: 42
+  Belfair: 43
+  Belle Chasse: 44
+  Bellevue: 45
+  Bellingham: 46
+  Benicia: 47
+  Benton City: 48
+  Berkeley: 49
+  Bethesda: 50
+  Beverly: 51
+  Bickleton: 52
+  Bingen: 53
+  Black Diamond: 54
+  Blaine: 55
+  Bloomfield: 56
+  Boca Raton: 57
+  Boise: 58
+  Bonney Lake: 59
+  Boston: 60
+  Bothell: 61
+  Bow: 62
+  Braselton: 63
+  Bremerton: 64
+  Brentwood: 65
+  Brewer: 66
+  Brewster: 67
+  Bridgeport: 68
+  Bridgeport Bar: 69
+  Brier: 70
+  Brinnon: 71
+  Brooklyn: 72
+  Brush Prairie: 73
+  Buckley: 74
+  Bucoda: 75
+  Buena: 76
+  Buena Park: 77
+  Bunnlevel: 78
+  Burbank: 79
+  Burien: 80
+  Burke: 81
+  Burlington: 82
+  Bz Corner: 83
+  Calera: 84
+  Camano Island: 85
+  Camarillo: 86
+  Camas: 87
+  Cameron: 88
+  Carbonado: 89
+  Carlsbad: 90
+  Carlton: 91
+  Carnation: 92
+  Carrboro: 93
+  Carrollton: 94
+  Carson: 95
+  Cashmere: 96
+  Castle Rock: 97
+  Cathedral City: 98
+  Cathlamet: 99
+  Centerville: 100
+  Centralia: 101
+  Chandler: 102
+  Chantilly: 103
+  Charleston Afb: 104
+  Charlottesville: 105
+  Chattaroy: 106
+  Chehalis: 107
+  Chelan: 108
+  Chelan Falls: 109
+  Cheney: 110
+  Chesapeake: 111
+  Chesapeake Beach: 112
+  Cheshire: 113
+  Chewelah: 114
+  Cheyenne: 115
+  Chimacum: 116
+  Chinook: 117
+  Chula Vista: 118
+  Cincinnati: 119
+  Cinebar: 120
+  Clallam Bay: 121
+  Clarkston: 122
+  Clayton: 123
+  Cle Elum: 124
+  Clearlake: 125
+  Clinton: 126
+  Clyde Hill: 127
+  Colbert: 128
+  Colfax: 129
+  College Place: 130
+  Colorado Springs: 131
+  Colton: 132
+  Columbus: 133
+  Colville: 134
+  Conconully: 135
+  Concrete: 136
+  Connell: 137
+  Conyers: 138
+  Copalis Beach: 139
+  Copalis Crossing: 140
+  Coronado: 141
+  Corpus Christi: 142
+  Cosmopolis: 143
+  Cougar: 144
+  Coulee City: 145
+  Coulee Dam: 146
+  Coupeville: 147
+  Covington: 148
+  Cowiche: 149
+  Creston: 150
+  Cumming: 151
+  Cupertino: 152
+  Curlew: 153
+  Curtis: 154
+  Cusick: 155
+  Custer: 156
+  Dallesport: 157
+  Danville: 158
+  Darrington: 159
+  Davenport: 160
+  Davis: 161
+  Dayton: 162
+  Decatur: 163
+  Deer Harbor: 164
+  Deer Meadows: 165
+  Deer Park: 166
+  Deming: 167
+  Derby: 168
+  Des Moines: 169
+  Dickinson: 170
+  Dixie: 171
+  Dover: 172
+  Dresher: 173
+  Dryden: 174
+  Dumfries: 175
+  Dupont: 176
+  Duvall: 177
+  Eagle River: 178
+  East Brunswick: 179
+  East Haven: 180
+  East Wenatchee: 181
+  Easton: 182
+  Eastsound: 183
+  Eatonville: 184
+  Edgewater: 185
+  Edgewood: 186
+  Edmonds: 187
+  Edwall: 188
+  Edwards: 189
+  Egg Harbor Township: 190
+  El Cajon: 191
+  El Paso: 192
+  Elbe: 193
+  Electric City: 194
+  Elizabethtown: 195
+  Elk: 196
+  Ellensburg: 197
+  Ellicott City: 198
+  Elma: 199
+  Elmer City: 200
+  Eltopia: 201
+  Encinitas: 202
+  Endicott: 203
+  Englewood: 204
+  Enid: 205
+  Entiat: 206
+  Enumclaw: 207
+  Ephrata: 208
+  Ethel: 209
+  Evans: 210
+  Evans Mills: 211
+  Everett: 212
+  Everson: 213
+  Ewa Beach: 214
+  Fairchild Air Force Base: 215
+  Fairfax: 216
+  Fairfield: 217
+  Fall City: 218
+  Fallon: 219
+  Falls Church: 220
+  Farmington: 221
+  Fayetteville: 222
+  Federal Way: 223
+  Ferndale: 224
+  Fife: 225
+  Fircrest: 226
+  Folsom: 227
+  Ford: 228
+  Forks: 229
+  Fort Belvoir: 230
+  Fort Benning: 231
+  Fort Bragg: 232
+  Fort George G Meade: 233
+  Fort Irwin: 234
+  Fort Knox: 235
+  Fort Leavenworth: 236
+  Fort Lee: 237
+  Fort Washington: 238
+  Fort Wayne: 239
+  Fort Worth: 240
+  Fox Island: 241
+  Fredericksburg: 242
+  Freeland: 243
+  Fremont: 244
+  Fresno: 245
+  Friday Harbor: 246
+  Frisco: 247
+  Gaithersburg: 248
+  Gales Ferry: 249
+  Galvin: 250
+  Gambrills: 251
+  Gardena: 252
+  Gardiner: 253
+  Garfield: 254
+  Germantown: 255
+  Gifford: 256
+  Gig Harbor: 257
+  Glacier: 258
+  Gladstone: 259
+  Glen Head: 260
+  Glenoma: 261
+  Glenwood: 262
+  Gold Bar: 263
+  Goldendale: 264
+  Goshen: 265
+  Graham: 266
+  Grand Coulee: 267
+  Grandview: 268
+  Granger: 269
+  Granite Falls: 270
+  Grapeview: 271
+  Grayland: 272
+  Grays River: 273
+  Green Bay: 274
+  Green Ridge: 275
+  Greenacres: 276
+  Greenbank: 277
+  Greene: 278
+  Greenfield Center: 279
+  Groton: 280
+  Gunpowder: 281
+  Hamilton: 282
+  Hampden: 283
+  Hanahan: 284
+  Hanford: 285
+  Hanover: 286
+  Hanscom Afb: 287
+  Hansville: 288
+  Harrah: 289
+  Harrington: 290
+  Harrison: 291
+  Hartline: 292
+  Hatton: 293
+  Healdsburg: 294
+  Henderson: 295
+  Hialeah: 296
+  Highland Park: 297
+  Holden Village: 298
+  Holloman Air Force Base: 299
+  Holly Springs: 300
+  Honolulu: 301
+  Hoodsport: 302
+  Hopkins: 303
+  Hoquiam: 304
+  Houston: 305
+  Hudson: 306
+  Hughesville: 307
+  Hunters: 308
+  Hunts Point: 309
+  Husum: 310
+  Ilwaco: 311
+  Inchelium: 312
+  Incorporated: 313
+  Index: 314
+  Indianola: 315
+  Ione: 316
+  Issaquah: 317
+  Jacksonville: 318
+  Jbsa Ft Sam Houston: 319
+  Joint Base Lewis Mcchord: 320
+  Joint Base Mdl: 321
+  Junction City: 322
+  Kailua: 323
+  Kalama: 324
+  Kapowsin: 325
+  Kekaha: 326
+  Kelso: 327
+  Kenmore: 328
+  Kennewick: 329
+  Kent: 330
+  Kettle Falls: 331
+  Keyport: 332
+  Kihei: 333
+  Killeen: 334
+  Kingston: 335
+  Kirkland: 336
+  Kittitas: 337
+  Klickitat: 338
+  La Center: 339
+  La Conner: 340
+  La Mesa: 341
+  Lacey: 342
+  Lacrosse: 343
+  Ladera Ranch: 344
+  Lafayette: 345
+  Lake Forest: 346
+  Lake Forest Park: 347
+  Lake Stevens: 348
+  Lake Tapps: 349
+  Lakebay: 350
+  Lakeview: 351
+  Lakewood: 352
+  Lamont: 353
+  Lancaster: 354
+  Langley: 355
+  Las Cruces: 356
+  Las Vegas: 357
+  Latah: 358
+  League City: 359
+  Leander: 360
+  Leavenworth: 361
+  Lebam: 362
+  Lehigh Valley: 363
+  Lemoore: 364
+  Lexington Park: 365
+  Liberty Lake: 366
+  Libertyville: 367
+  Lilliwaup: 368
+  Lincoln: 369
+  Lind: 370
+  Lisle: 371
+  Little Elm: 372
+  Little Rock: 373
+  Lompoc: 374
+  Long Beach: 375
+  Longbranch: 376
+  Longview: 377
+  Loon Lake: 378
+  Lopez Is: 379
+  Lopez Island: 380
+  Los Angeles: 381
+  Louisville: 382
+  Lummi Island: 383
+  Lyle: 384
+  Lyman: 385
+  Lynden: 386
+  Lynnwood: 387
+  Mabton: 388
+  Madison: 389
+  Maitland: 390
+  Malaga: 391
+  Malden: 392
+  Manassas: 393
+  Mansfield: 394
+  Manson: 395
+  Maple Falls: 396
+  Maple Valley: 397
+  Marblemount: 398
+  Maricopa: 399
+  Marina: 400
+  Marlin: 401
+  Martha Lake: 402
+  Martinez: 403
+  Maryhill: 404
+  Marysville: 405
+  Mattawa: 406
+  Mazama: 407
+  Mc Lean: 408
+  McCleary: 409
+  Mccleary: 410
+  Mead: 411
+  Mechanicsburg: 412
+  Medical Lake: 413
+  Medina: 414
+  Melbourne: 415
+  Melissa: 416
+  Memphis: 417
+  Menifee: 418
+  Menlo: 419
+  Mercer Island: 420
+  Merrifield: 421
+  Mesa: 422
+  Metaline: 423
+  Methow: 424
+  Mica: 425
+  Middletown: 426
+  Midway City: 427
+  Mill Creek: 428
+  Mill Valley: 429
+  Milton: 430
+  Mineral: 431
+  Minneapolis: 432
+  Moclips: 433
+  Monroe: 434
+  Montclair: 435
+  Monterey: 436
+  Montesano: 437
+  Montgomery: 438
+  Monument: 439
+  Moorpark: 440
+  Morrisville: 441
+  Morton: 442
+  Moses Lake: 443
+  Mossyrock: 444
+  Mount Vernon: 445
+  Mountlake Terrace: 446
+  Moxee: 447
+  Moyock: 448
+  Mukilteo: 449
+  Murdock: 450
+  Myrtle Beach: 451
+  Mystic: 452
+  Naches: 453
+  Nahcotta: 454
+  Napavine: 455
+  Naselle: 456
+  Neah Bay: 457
+  Nespelem: 458
+  New York: 459
+  Newcastle: 460
+  Newman Lake: 461
+  Newport: 462
+  Niceville: 463
+  Nine Mile Falls: 464
+  Nooksack: 465
+  Nordland: 466
+  Norfolk: 467
+  Normandy Park: 468
+  North Bend: 469
+  North Bonneville: 470
+  North Chesterfield: 471
+  North Cove: 472
+  North Dartmouth: 473
+  North Las Vegas: 474
+  Northport: 475
+  O Fallon: 476
+  Oak Harbor: 477
+  Oakesdale: 478
+  Oakville: 479
+  Ocean Park: 480
+  Ocean Shores: 481
+  Ocean Springs: 482
+  Oceanside: 483
+  Odenton: 484
+  Odessa: 485
+  Ogdensburg: 486
+  Okanogan: 487
+  Okatie: 488
+  Olalla: 489
+  Old Lyme: 490
+  Olga: 491
+  Olympia: 492
+  Omaha: 493
+  Omak: 494
+  Onalaska: 495
+  Orcas: 496
+  Orcas Is: 497
+  Orient: 498
+  Orondo: 499
+  Oroville: 500
+  Orting: 501
+  Othello: 502
+  Otis Orchards: 503
+  Outlook: 504
+  Oysterville: 505
+  Ozark: 506
+  Pacific: 507
+  Pacific Beach: 508
+  Pacific Grove: 509
+  Pacifica: 510
+  Packwood: 511
+  Palisades: 512
+  Palo Alto: 513
+  Palouse: 514
+  Parker: 515
+  Parkland: 516
+  Pasc: 517
+  Pasco: 518
+  Pateros: 519
+  Paterson: 520
+  Pe Ell: 521
+  Pensacola: 522
+  Peoria: 523
+  Peshastin: 524
+  Philadelphia: 525
+  Phoenix: 526
+  Pike Road: 527
+  Pittsboro: 528
+  Pittsburg: 529
+  Pittsburgh: 530
+  Plano: 531
+  Plymouth: 532
+  Point Roberts: 533
+  Pomeroy: 534
+  Port Angeles: 535
+  Port Gamble: 536
+  Port Hadlock: 537
+  Port Hueneme: 538
+  Port Ludlow: 539
+  Port Orange: 540
+  Port Orchard: 541
+  Port Townsend: 542
+  Portland: 543
+  Portsmouth: 544
+  Post Falls: 545
+  Potomac: 546
+  Poulsbo: 547
+  Pouslbo: 548
+  Prairie Ridge: 549
+  Prattville: 550
+  Prescott: 551
+  Preston: 552
+  Princeton: 553
+  Pros: 554
+  Prosser: 555
+  Providence: 556
+  Pullman: 557
+  Puyallup: 558
+  Quilcene: 559
+  Quinault: 560
+  Quincy: 561
+  Raeford: 562
+  Rainier: 563
+  Raleigh: 564
+  Randle: 565
+  Rathdrum: 566
+  Ravensdale: 567
+  Raymond: 568
+  Reardan: 569
+  Redmond: 570
+  Redwood City: 571
+  Reno: 572
+  Renton: 573
+  Republic: 574
+  Reston: 575
+  Rice: 576
+  Rich: 577
+  Richland: 578
+  Richmond: 579
+  Ridgecrest: 580
+  Ridgefield: 581
+  Rineyville: 582
+  Ritzville: 583
+  Riverside: 584
+  Rochester: 585
+  Rock Island: 586
+  Rockford: 587
+  Rockport: 588
+  Ronald: 589
+  Roosevelt: 590
+  Rosalia: 591
+  Rosburg: 592
+  Roseville: 593
+  Roslyn: 594
+  Roy: 595
+  Royal City: 596
+  Ruston: 597
+  Ryderwood: 598
+  Sacramento: 599
+  Saint Jacob: 600
+  Saint Louis: 601
+  Saint Robert: 602
+  Salem: 603
+  Salkum: 604
+  Sammamish: 605
+  San Angelo: 606
+  San Antonio: 607
+  San Clemente: 608
+  San Diego: 609
+  San Francisco: 610
+  San Jose: 611
+  San Luis Obispo: 612
+  San Rafael: 613
+  Sanford: 614
+  Santa Clara: 615
+  Santa Rosa: 616
+  Sarasota: 617
+  Saratoga Springs: 618
+  Satsop: 619
+  Scottsdale: 620
+  Seabeck: 621
+  Seaside: 622
+  Seatac: 623
+  Seattle: 624
+  Seaview: 625
+  Sedro Woolley: 626
+  Sedro-Woolley: 627
+  Sekiu: 628
+  Selah: 629
+  Sequim: 630
+  Seven Bays: 631
+  Shaw Island: 632
+  Shelton: 633
+  Sherwood: 634
+  Shoreline: 635
+  Silver Creek: 636
+  Silver Lake: 637
+  Silver Spring: 638
+  Silverdale: 639
+  Silverlake: 640
+  Skamokawa: 641
+  Skokie: 642
+  Skykomish: 643
+  Smith Creek: 644
+  Smiths Station: 645
+  Snohomish: 646
+  Snoqualmie: 647
+  Snoqualmie Pass: 648
+  Snowden: 649
+  Soap Lake: 650
+  South Bend: 651
+  South Cle Elum: 652
+  South Hill: 653
+  South Prairie: 654
+  South Salt Lake: 655
+  Southlake: 656
+  Spanaway: 657
+  Spangle: 658
+  Sparks: 659
+  Spokane: 660
+  Spokane Valley: 661
+  Sprague: 662
+  Spring Lake: 663
+  Springdale: 664
+  Springfield: 665
+  St John: 666
+  Stafford: 667
+  Stanhope: 668
+  Stanwood: 669
+  Startup: 670
+  Steilacoom: 671
+  Stevenson: 672
+  Stratford: 673
+  Streamwood: 674
+  Suffolk: 675
+  Sultan: 676
+  Sumas: 677
+  Summerville: 678
+  Sumner: 679
+  Sunnyside: 680
+  Sunnyvale: 681
+  Suquamish: 682
+  Surfside: 683
+  Suwanee: 684
+  Tacoma: 685
+  Taholah: 686
+  Tahuya: 687
+  Tampa: 688
+  Tekoa: 689
+  Tenino: 690
+  The Dalles: 691
+  Thorp: 692
+  Tieton: 693
+  Timnath: 694
+  Toano: 695
+  Tokeland: 696
+  Toledo: 697
+  Tonasket: 698
+  Tooele: 699
+  Topanga: 700
+  Toppenish: 701
+  Torrance: 702
+  Touchet: 703
+  Toutle: 704
+  Townsend: 705
+  Trabuco Canyon: 706
+  Travis Afb: 707
+  Trout Lake: 708
+  Tucson: 709
+  Tukwila: 710
+  Tulalip: 711
+  Tumtum: 712
+  Tumwater: 713
+  Twisp: 714
+  Underwood: 715
+  Union: 716
+  Union Gap: 717
+  Uniontown: 718
+  University Place: 719
+  Unknown: 720
+  Upper Marlboro: 721
+  Usk: 722
+  Vacaville: 723
+  Vader: 724
+  Valley: 725
+  Valleyford: 726
+  Vancouver: 727
+  Vantage: 728
+  Vashon: 729
+  Vass: 730
+  Vaughn: 731
+  Ventura: 732
+  Veradale: 733
+  Vienna: 734
+  Virginia Beach: 735
+  Wahkiacus: 736
+  Waitsburg: 737
+  Waldorf: 738
+  Waldron: 739
+  Walla Walla: 740
+  Walla Walla Co: 741
+  Wapato: 742
+  Warden: 743
+  Warner Robins: 744
+  Warren: 745
+  Washington: 746
+  Washougal: 747
+  Washtucna: 748
+  Waterford: 749
+  Watertown: 750
+  Waterville: 751
+  Waverly: 752
+  Waynesville: 753
+  Wellpinit: 754
+  Wenatchee: 755
+  West Chicago: 756
+  West Richland: 757
+  Westlake: 758
+  Westminster: 759
+  Westport: 760
+  White Salmon: 761
+  White Swan: 762
+  Wilbur: 763
+  Wildomar: 764
+  Wilkeson: 765
+  Willapa: 766
+  Williamsburg: 767
+  Winchester: 768
+  Winlock: 769
+  Winter Park: 770
+  Winthrop: 771
+  Wishram: 772
+  Woodbine: 773
+  Woodinville: 774
+  Woodland: 775
+  Woodway: 776
+  Worley: 777
+  Wrch: 778
+  Yacolt: 779
+  Yakima: 780
+  Yarrow Point: 781
+  Yelm: 782
+  Zillah: 783
+
+State mapping:
+  AE: 0
+  AK: 1
+  AL: 2
+  AR: 3
+  AZ: 4
+  BC: 5
+  CA: 6
+  CO: 7
+  CT: 8
+  DC: 9
+  DE: 10
+  FL: 11
+  GA: 12
+  HI: 13
+  ID: 14
+  IL: 15
+  IN: 16
+  KS: 17
+  KY: 18
+  LA: 19
+  MA: 20
+  MD: 21
+  ME: 22
+  MI: 23
+  MN: 24
+  MO: 25
+  MS: 26
+  NC: 27
+  NE: 28
+  NH: 29
+  NJ: 30
+  NM: 31
+  NS: 32
+  NV: 33
+  NY: 34
+  OH: 35
+  OK: 36
+  OR: 37
+  PA: 38
+  RI: 39
+  SC: 40
+  TN: 41
+  TX: 42
+  UT: 43
+  VA: 44
+  WA: 45
+  WI: 46
+  WY: 47
+
+Make mapping:
+  ACURA: 0
+  ALFA ROMEO: 1
+  AUDI: 2
+  AZURE DYNAMICS: 3
+  BENTLEY: 4
+  BMW: 5
+  BRIGHTDROP: 6
+  CADILLAC: 7
+  CHEVROLET: 8
+  CHRYSLER: 9
+  DODGE: 10
+  FIAT: 11
+  FISKER: 12
+  FORD: 13
+  GENESIS: 14
+  GMC: 15
+  HONDA: 16
+  HYUNDAI: 17
+  JAGUAR: 18
+  JEEP: 19
+  KIA: 20
+  LAMBORGHINI: 21
+  LAND ROVER: 22
+  LEXUS: 23
+  LINCOLN: 24
+  LUCID: 25
+  MAZDA: 26
+  MERCEDES-BENZ: 27
+  MINI: 28
+  MITSUBISHI: 29
+  MULLEN AUTOMOTIVE INC.: 30
+  NISSAN: 31
+  POLESTAR: 32
+  PORSCHE: 33
+  RAM: 34
+  RIVIAN: 35
+  ROLLS-ROYCE: 36
+  SMART: 37
+  SUBARU: 38
+  TESLA: 39
+  TH!NK: 40
+  TOYOTA: 41
+  VINFAST: 42
+  VOLKSWAGEN: 43
+  VOLVO: 44
+  WHEEGO ELECTRIC CARS: 45
+
+Model mapping:
+  330E: 0
+  500: 1
+  500E: 2
+  530E: 3
+  740E: 4
+  745E: 5
+  745LE: 6
+  750E: 7
+  918: 8
+  A3: 9
+  A7 E: 10
+  A8 E: 11
+  ACCORD: 12
+  AIR: 13
+  ARIYA: 14
+  AVIATOR: 15
+  B-CLASS: 16
+  BENTAYGA: 17
+  BLAZER EV: 18
+  BOLT EUV: 19
+  BOLT EV: 20
+  BZ4X: 21
+  C-CLASS: 22
+  C-MAX: 23
+  C40: 24
+  CAYENNE: 25
+  CITY: 26
+  CLARITY: 27
+  CORSAIR: 28
+  COUNTRYMAN: 29
+  CR-V: 30
+  CROSSTREK: 31
+  CT6: 32
+  CX-70: 33
+  CX-90: 34
+  CYBERTRUCK: 35
+  E-GOLF: 36
+  E-TRON: 37
+  E-TRON GT: 38
+  E-TRON SPORTBACK: 39
+  EDV: 40
+  ELR: 41
+  EQ FORTWO: 42
+  EQB-CLASS: 43
+  EQE-CLASS SEDAN: 44
+  EQE-CLASS SUV: 45
+  EQS-CLASS SEDAN: 46
+  EQS-CLASS SUV: 47
+  EQUINOX EV: 48
+  ESCAPE: 49
+  ESPRINTER: 50
+  EV6: 51
+  EV9: 52
+  EX40: 53
+  F-150: 54
+  FLYING SPUR: 55
+  FOCUS: 56
+  FORTWO: 57
+  FORTWO ELECTRIC DRIVE: 58
+  FUSION: 59
+  G-CLASS: 60
+  G80: 61
+  GLC-CLASS: 62
+  GLE-CLASS: 63
+  GRAND CHEROKEE: 64
+  GV60: 65
+  GV70: 66
+  HARDTOP: 67
+  HORNET: 68
+  HUMMER EV PICKUP: 69
+  HUMMER EV SUV: 70
+  I-MIEV: 71
+  I-PACE: 72
+  I3: 73
+  I4: 74
+  I5: 75
+  I7: 76
+  I8: 77
+  ID.4: 78
+  IONIQ: 79
+  IONIQ 5: 80
+  IONIQ 5 N: 81
+  IONIQ 6: 82
+  IX: 83
+  KARMA: 84
+  KONA: 85
+  KONA ELECTRIC: 86
+  LEAF: 87
+  LYRIQ: 88
+  MACAN: 89
+  MODEL 3: 90
+  MODEL S: 91
+  MODEL X: 92
+  MODEL Y: 93
+  MUSTANG MACH-E: 94
+  MX-30: 95
+  NIRO: 96
+  NX: 97
+  OCEAN: 98
+  ONE: 99
+  OPTIMA: 100
+  OUTLANDER: 101
+  PACIFICA: 102
+  PANAMERA: 103
+  POLESTAR 3: 104
+  PRIUS PLUG-IN: 105
+  PRIUS PRIME: 106
+  PROLOGUE: 107
+  PROMASTER 3500: 108
+  PS2: 109
+  Q4: 110
+  Q5: 111
+  Q5 E: 112
+  Q8: 113
+  R1S: 114
+  R1T: 115
+  RANGE ROVER: 116
+  RANGE ROVER SPORT: 117
+  RANGER: 118
+  RAV4: 119
+  RAV4 PRIME: 120
+  REVUELTO: 121
+  ROADSTER: 122
+  RS E-TRON GT: 123
+  RX: 124
+  RZ: 125
+  S-CLASS: 126
+  S60: 127
+  S90: 128
+  SANTA FE: 129
+  SILVERADO EV: 130
+  SOLTERRA: 131
+  SONATA: 132
+  SORENTO: 133
+  SOUL: 134
+  SOUL EV: 135
+  SPARK: 136
+  SPECTRE: 137
+  SPORTAGE: 138
+  SQ8: 139
+  TAYCAN: 140
+  TONALE: 141
+  TRANSIT: 142
+  TRANSIT CONNECT ELECTRIC: 143
+  TUCSON: 144
+  TX: 145
+  V60: 146
+  VF 8: 147
+  VOLT: 148
+  WHEEGO: 149
+  WRANGLER: 150
+  X3: 151
+  X5: 152
+  XC40: 153
+  XC60: 154
+  XC90: 155
+  XM: 156
+  ZDX: 157
+  ZEVO: 158
+
+Electric Vehicle Type mapping:
+  Battery Electric Vehicle (BEV): 0
+  Plug-in Hybrid Electric Vehicle (PHEV): 1
+
+Clean Alternative Fuel Vehicle (CAFV) Eligibility mapping:
+  Clean Alternative Fuel Vehicle Eligible: 0
+  Eligibility unknown as battery range has not been researched: 1
+  Not eligible due to low battery range: 2
+
+Electric Utility mapping:
+  AVISTA CORP: 0
+  BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||BIG BEND ELECTRIC COOP, INC: 1
+  BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||INLAND POWER & LIGHT COMPANY: 2
+  BONNEVILLE POWER ADMINISTRATION||AVISTA CORP||PUD NO 1 OF ASOTIN COUNTY: 3
+  BONNEVILLE POWER ADMINISTRATION||BENTON RURAL ELECTRIC ASSN: 4
+  BONNEVILLE POWER ADMINISTRATION||BIG BEND ELECTRIC COOP, INC: 5
+  BONNEVILLE POWER ADMINISTRATION||CITY OF CENTRALIA - (WA)|CITY OF TACOMA - (WA): 6
+  BONNEVILLE POWER ADMINISTRATION||CITY OF COULEE DAM - (WA): 7
+  BONNEVILLE POWER ADMINISTRATION||CITY OF ELLENSBURG - (WA): 8
+  BONNEVILLE POWER ADMINISTRATION||CITY OF MCCLEARY - (WA): 9
+  BONNEVILLE POWER ADMINISTRATION||CITY OF MILTON - (WA)|CITY OF TACOMA - (WA): 10
+  BONNEVILLE POWER ADMINISTRATION||CITY OF PORT ANGELES - (WA): 11
+  BONNEVILLE POWER ADMINISTRATION||CITY OF RICHLAND - (WA): 12
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ALDER MUTUAL LIGHT CO, INC|PENINSULA LIGHT COMPANY: 13
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||BENTON RURAL ELECTRIC ASSN|PENINSULA LIGHT COMPANY: 14
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||ELMHURST MUTUAL POWER & LIGHT CO|PENINSULA LIGHT COMPANY: 15
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||LAKEVIEW LIGHT & POWER|PENINSULA LIGHT COMPANY: 16
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||OHOP MUTUAL LIGHT COMPANY, INC|PENINSULA LIGHT COMPANY: 17
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PARKLAND LIGHT & WATER COMPANY|PENINSULA LIGHT COMPANY: 18
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY: 19
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF LEWIS COUNTY: 20
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 1 OF MASON COUNTY: 21
+  BONNEVILLE POWER ADMINISTRATION||CITY OF TACOMA - (WA)||PUD NO 3 OF MASON COUNTY: 22
+  BONNEVILLE POWER ADMINISTRATION||COLUMBIA RURAL ELEC ASSN, INC: 23
+  BONNEVILLE POWER ADMINISTRATION||INLAND POWER & LIGHT COMPANY: 24
+  BONNEVILLE POWER ADMINISTRATION||NESPELEM VALLEY ELEC COOP, INC: 25
+  BONNEVILLE POWER ADMINISTRATION||ORCAS POWER & LIGHT COOP: 26
+  BONNEVILLE POWER ADMINISTRATION||PACIFICORP||BENTON RURAL ELECTRIC ASSN: 27
+  BONNEVILLE POWER ADMINISTRATION||PACIFICORP||COLUMBIA RURAL ELEC ASSN, INC: 28
+  BONNEVILLE POWER ADMINISTRATION||PACIFICORP||PUD NO 1 OF CLARK COUNTY - (WA): 29
+  BONNEVILLE POWER ADMINISTRATION||PENINSULA LIGHT COMPANY: 30
+  BONNEVILLE POWER ADMINISTRATION||PUD 1 OF SNOHOMISH COUNTY: 31
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF ASOTIN COUNTY: 32
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF BENTON COUNTY: 33
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLALLAM COUNTY: 34
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF CLARK COUNTY - (WA): 35
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF COWLITZ COUNTY: 36
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FERRY COUNTY: 37
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF FRANKLIN COUNTY: 38
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF GRAYS HARBOR COUNTY: 39
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF JEFFERSON COUNTY: 40
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KITTITAS COUNTY: 41
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF KLICKITAT COUNTY: 42
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF MASON COUNTY|PUD NO 1 OF JEFFERSON COUNTY: 43
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF SKAMANIA CO: 44
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 1 OF WAHKIAKUM COUNTY: 45
+  BONNEVILLE POWER ADMINISTRATION||PUD NO 2 OF PACIFIC COUNTY: 46
+  BONNEVILLE POWER ADMINISTRATION||PUGET SOUND ENERGY INC||PUD NO 1 OF JEFFERSON COUNTY: 47
+  BONNEVILLE POWER ADMINISTRATION||TOWN OF EATONVILLE - (WA)|CITY OF TACOMA - (WA): 48
+  BONNEVILLE POWER ADMINISTRATION||TOWN OF RUSTON - (WA)|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY: 49
+  BONNEVILLE POWER ADMINISTRATION||TOWN OF STEILACOOM|CITY OF TACOMA - (WA)||PENINSULA LIGHT COMPANY: 50
+  BONNEVILLE POWER ADMINISTRATION||VERA IRRIGATION DISTRICT #15: 51
+  CITY OF BLAINE - (WA)||PUD NO 1 OF WHATCOM COUNTY: 52
+  CITY OF CHENEY - (WA): 53
+  CITY OF CHEWELAH: 54
+  CITY OF SEATTLE - (WA): 55
+  CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA): 56
+  CITY OF SUMAS - (WA)||PUD NO 1 OF WHATCOM COUNTY: 57
+  CITY OF TACOMA - (WA): 58
+  CITY OF TACOMA - (WA)||TANNER ELECTRIC COOP: 59
+  MODERN ELECTRIC WATER COMPANY: 60
+  NO KNOWN ELECTRIC UTILITY SERVICE: 61
+  NON WASHINGTON STATE ELECTRIC UTILITY: 62
+  OKANOGAN COUNTY ELEC COOP, INC: 63
+  PACIFICORP: 64
+  PORTLAND GENERAL ELECTRIC CO: 65
+  PUD NO 1 OF CHELAN COUNTY: 66
+  PUD NO 1 OF DOUGLAS COUNTY: 67
+  PUD NO 1 OF OKANOGAN COUNTY: 68
+  PUD NO 1 OF PEND OREILLE COUNTY: 69
+  PUD NO 1 OF WHATCOM COUNTY: 70
+  PUD NO 2 OF GRANT COUNTY: 71
+  PUGET SOUND ENERGY INC: 72
+  PUGET SOUND ENERGY INC||CITY OF TACOMA - (WA): 73
+  PUGET SOUND ENERGY INC||PUD NO 1 OF WHATCOM COUNTY: 74
+  Unknown: 75
+
+Legislative District mapping:
+  1.0: 0
+  10.0: 1
+  11.0: 2
+  12.0: 3
+  13.0: 4
+  14.0: 5
+  15.0: 6
+  16.0: 7
+  17.0: 8
+  18.0: 9
+  19.0: 10
+  2.0: 11
+  20.0: 12
+  21.0: 13
+  22.0: 14
+  23.0: 15
+  24.0: 16
+  25.0: 17
+  26.0: 18
+  27.0: 19
+  28.0: 20
+  29.0: 21
+  3.0: 22
+  30.0: 23
+  31.0: 24
+  32.0: 25
+  33.0: 26
+  34.0: 27
+  35.0: 28
+  36.0: 29
+  37.0: 30
+  38.0: 31
+  39.0: 32
+  4.0: 33
+  40.0: 34
+  41.0: 35
+  42.0: 36
+  43.0: 37
+  44.0: 38
+  45.0: 39
+  46.0: 40
+  47.0: 41
+  48.0: 42
+  49.0: 43
+  5.0: 44
+  6.0: 45
+  7.0: 46
+  8.0: 47
+  9.0: 48
+
