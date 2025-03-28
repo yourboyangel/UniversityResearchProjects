@@ -1,2 +1,2 @@
-# GraduationProject
-Repository for the Graduation Project
+# Group Research Projects For Different Courses
+
