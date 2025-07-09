@@ -1,0 +1,105 @@
+/usr/bin/apport-bug:                         POSIX shell script, ASCII text executable
+/usr/bin/apt-key:                            POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/bashbug:                            POSIX shell script, ASCII text executable
+/usr/bin/byobu:                              POSIX shell script, ASCII text executable
+/usr/bin/byobu-config:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-ctrl-a:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-disable:                      POSIX shell script, ASCII text executable
+/usr/bin/byobu-disable-prompt:               POSIX shell script, ASCII text executable
+/usr/bin/byobu-enable:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-enable-prompt:                POSIX shell script, ASCII text executable
+/usr/bin/byobu-export:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-janitor:                      POSIX shell script, ASCII text executable
+/usr/bin/byobu-keybindings:                  POSIX shell script, ASCII text executable
+/usr/bin/byobu-launch:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-launcher:                     POSIX shell script, ASCII text executable
+/usr/bin/byobu-launcher-install:             POSIX shell script, ASCII text executable
+/usr/bin/byobu-launcher-uninstall:           POSIX shell script, ASCII text executable
+/usr/bin/byobu-layout:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-prompt:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-quiet:                        POSIX shell script, ASCII text executable
+/usr/bin/byobu-reconnect-sockets:            POSIX shell script, ASCII text executable
+/usr/bin/byobu-select-backend:               POSIX shell script, ASCII text executable
+/usr/bin/byobu-select-profile:               POSIX shell script, ASCII text executable
+/usr/bin/byobu-select-session:               POSIX shell script, ASCII text executable
+/usr/bin/byobu-shell:                        POSIX shell script, ASCII text executable
+/usr/bin/byobu-silent:                       POSIX shell script, ASCII text executable
+/usr/bin/byobu-status:                       POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/byobu-status-detail:                POSIX shell script, ASCII text executable
+/usr/bin/byobu-ugraph:                       Bourne-Again shell script, ASCII text executable
+/usr/bin/byobu-ulevel:                       Bourne-Again shell script, Unicode text, UTF-8 text executable
+/usr/bin/bzdiff:                             POSIX shell script, ASCII text executable
+/usr/bin/bzexe:                              POSIX shell script, ASCII text executable
+/usr/bin/bzgrep:                             POSIX shell script, ASCII text executable
+/usr/bin/bzmore:                             POSIX shell script, ASCII text executable
+/usr/bin/c89-gcc:                            POSIX shell script, ASCII text executable
+/usr/bin/c99-gcc:                            POSIX shell script, ASCII text executable
+/usr/bin/cloud-init-per:                     POSIX shell script, ASCII text executable
+/usr/bin/col1:                               POSIX shell script, ASCII text executable
+/usr/bin/ctail:                              POSIX shell script, ASCII text executable
+/usr/bin/dpkg-maintscript-helper:            POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/dpkg-realpath:                      POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/eatmydata:                          POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/egrep:                              POSIX shell script, ASCII text executable
+/usr/bin/fakeroot-sysv:                      POSIX shell script, ASCII text executable
+/usr/bin/fakeroot-tcp:                       POSIX shell script, ASCII text executable
+/usr/bin/fgrep:                              POSIX shell script, ASCII text executable
+/usr/bin/gawkbug:                            POSIX shell script, ASCII text executable, with very long lines (334)
+/usr/bin/gettext.sh:                         POSIX shell script, ASCII text executable
+/usr/bin/growpart:                           POSIX shell script, ASCII text executable
+/usr/bin/gunzip:                             POSIX shell script, ASCII text executable
+/usr/bin/gzexe:                              POSIX shell script, ASCII text executable
+/usr/bin/lcf:                                POSIX shell script, ASCII text executable
+/usr/bin/ldd:                                Bourne-Again shell script, ASCII text executable
+/usr/bin/lesspipe:                           POSIX shell script, ASCII text executable
+/usr/bin/lsb_release:                        POSIX shell script, ASCII text executable
+/usr/bin/lspgpot:                            POSIX shell script, ASCII text executable
+/usr/bin/manifest:                           POSIX shell script, ASCII text executable
+/usr/bin/memusage:                           Bourne-Again shell script, ASCII text executable
+/usr/bin/migrate-pubring-from-classic-gpg:   Bourne-Again shell script, ASCII text executable
+/usr/bin/mk_modmap:                          POSIX shell script, ASCII text executable
+/usr/bin/neqn:                               POSIX shell script, ASCII text executable
+/usr/bin/nroff:                              POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/pbput:                              POSIX shell script, ASCII text executable
+/usr/bin/perldoc:                            POSIX shell script, ASCII text executable
+/usr/bin/purge-old-kernels:                  POSIX shell script, ASCII text executable
+/usr/bin/red:                                POSIX shell script, ASCII text executable
+/usr/bin/rgrep:                              POSIX shell script, ASCII text executable
+/usr/bin/rsync-ssl:                          Bourne-Again shell script, ASCII text executable
+/usr/bin/run-one:                            POSIX shell script, ASCII text executable
+/usr/bin/savelog:                            POSIX shell script, ASCII text executable
+/usr/bin/select-editor:                      POSIX shell script, ASCII text executable
+/usr/bin/sensible-browser:                   POSIX shell script, ASCII text executable
+/usr/bin/sensible-editor:                    POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/sensible-pager:                     POSIX shell script, ASCII text executable
+/usr/bin/sensible-terminal:                  POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/setupcon:                           POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/sotruss:                            Bourne-Again shell script, ASCII text executable
+/usr/bin/ssh-argv0:                          POSIX shell script, ASCII text executable
+/usr/bin/ssh-copy-id:                        POSIX shell script, Unicode text, UTF-8 text executable
+/usr/bin/tzselect:                           Bourne-Again shell script, ASCII text executable
+/usr/bin/ucf:                                POSIX shell script, ASCII text executable
+/usr/bin/ucfr:                               POSIX shell script, ASCII text executable
+/usr/bin/uncompress:                         POSIX shell script, ASCII text executable
+/usr/bin/unicode_start:                      POSIX shell script, ASCII text executable
+/usr/bin/unicode_stop:                       POSIX shell script, ASCII text executable
+/usr/bin/vcs-run:                            Bourne-Again shell script, ASCII text executable
+/usr/bin/vigpg:                              POSIX shell script, ASCII text executable
+/usr/bin/vimtutor:                           POSIX shell script, ASCII text executable
+/usr/bin/which.debianutils:                  POSIX shell script, ASCII text executable
+/usr/bin/wifi-status:                        POSIX shell script, ASCII text executable
+/usr/bin/xdg-user-dir:                       POSIX shell script, ASCII text executable
+/usr/bin/xzdiff:                             POSIX shell script, ASCII text executable
+/usr/bin/xzgrep:                             POSIX shell script, ASCII text executable
+/usr/bin/xzless:                             POSIX shell script, ASCII text executable
+/usr/bin/xzmore:                             POSIX shell script, ASCII text executable
+/usr/bin/zcat:                               POSIX shell script, ASCII text executable
+/usr/bin/zcmp:                               POSIX shell script, ASCII text executable
+/usr/bin/zdiff:                              POSIX shell script, ASCII text executable
+/usr/bin/zegrep:                             POSIX shell script, ASCII text executable
+/usr/bin/zfgrep:                             POSIX shell script, ASCII text executable
+/usr/bin/zforce:                             POSIX shell script, ASCII text executable
+/usr/bin/zgrep:                              POSIX shell script, ASCII text executable
+/usr/bin/zless:                              POSIX shell script, ASCII text executable
+/usr/bin/zmore:                              POSIX shell script, ASCII text executable
+/usr/bin/znew:                               POSIX shell script, ASCII text executable

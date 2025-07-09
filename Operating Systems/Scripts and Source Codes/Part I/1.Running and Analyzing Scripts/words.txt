@@ -1,0 +1,3 @@
+apple: A fruit that grows on trees.
+bash: The Bourne-Again SHell, a Unix shell.
+cache: A high-speed data storage layer.

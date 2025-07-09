@@ -1,0 +1,15 @@
+# gen0 – Initial data file for Game of Life
+# “.” represents a live cell
+# “_” represents a dead cell
+# Lines beginning with “#” are ignored by the script
+
+__________
+____._____
+_____.____
+___...____
+__________
+__________
+__________
+__________
+__________
+__________

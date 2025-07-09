@@ -1,0 +1,3 @@
+In many versions of unix there is a -i argument for cp so that you will be prompted for confirmation
+if you are about to overwrite a file. Write a script called cpi which will prompt if necessary without
+using the -iargument.

@@ -1,0 +1,7 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Lunch?
+
+Hello Bob,
+Shall we grab lunch today?
+—Alice

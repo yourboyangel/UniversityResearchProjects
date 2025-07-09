@@ -1,0 +1,5 @@
+>>
+>Single space line
+> Hello, this is a edge test
+    This is a very long line that should be folded because it exceeds the maximum width of seventy characters by quite a bit.
+Normal line without carets.
